@@ -10,4 +10,5 @@ VPC (Virtual Private Cloud) is a virtual network within a public cloud (for exam
 
 [link of VPC documentation on AWS website](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
+*Quick correction: on the diagram, Remote Desktop is RDP, not RDK*
 
